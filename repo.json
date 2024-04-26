@@ -1,0 +1,14 @@
+[{
+  "Name": "devtools",
+  "Description": "Provides configurable code formatter and runner based on file type.",
+  "Tags": ["formatter"],
+  "Versions": [
+    {
+      "Version": "0.0.1",
+      "Url": "https://github.com/zongou/micro-devtools/archive/refs/tags/0.0.1.tar.gz",
+      "Require": {
+        "micro": ">=2.0.8"
+      }
+    }
+  ]
+}]
